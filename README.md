@@ -31,9 +31,9 @@ This is a synthetic dataset generated using generative AI for learning and portf
 
 Dataset links:
 - [viewers.csv](https://github.com/priyanshupriyamug23-max/OTT_analysis/blob/main/Dataset%20CSV/viewers.csv)
-- [logins.csv](https://github.com/mayukh1403/OTT-Analysis/blob/main/Dataset%20CSV/logins.csv)
-- [sessions.csv](https://github.com/mayukh1403/OTT-Analysis/blob/main/Dataset%20CSV/sessions.csv)
-- [promotions.csv](https://github.com/mayukh1403/OTT-Analysis/blob/main/Dataset%20CSV/promotions.csv)
+- [logins.csv](https://github.com/priyanshupriyamug23-max/OTT_analysis/blob/main/Dataset%20CSV/logins.csv)
+- [sessions.csv](https://github.com/priyanshupriyamug23-max/OTT_analysis/blob/main/Dataset%20CSV/sessions.csv)
+- [promotions.csv](https://github.com/priyanshupriyamug23-max/OTT_analysis/blob/main/Dataset%20CSV/promotions.csv)
 
 ## Key SQL Queries & Use Cases
 
