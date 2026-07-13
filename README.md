@@ -58,7 +58,7 @@ Explore all queries [here](https://github.com/priyanshupriyamug23-max/OTT_analys
 Built using Looker Studio:
 
 - [Live Dashboard](https://lookerstudio.google.com/u/0/reporting/b142085d-ce40-470e-82ea-d555ca43d3f4/page/p_rc75fgeutd)
-- [PDF Summary Report](https://github.com/mayukh1403/OTT-Analysis/blob/main/OTT_User_Activity_-_Visualization.pdf)
+- [PDF Summary Report](https://github.com/priyanshupriyamug23-max/OTT_analysis/blob/main/OTT_User_Activity_-_Visualization.pdf)
 
 Included:
 - DAU & MAU Trends
